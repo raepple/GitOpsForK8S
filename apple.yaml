@@ -9,7 +9,7 @@ spec:
     - name: apple-app
       image: hashicorp/http-echo
       args:
-        - "-text=The world is an apple"
+        - "-text=The world is a banana"
 
 ---
 
